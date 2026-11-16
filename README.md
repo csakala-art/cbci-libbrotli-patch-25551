@@ -2,7 +2,7 @@
 
 Workaround images for **CVE-2026-111497** (UBI `libbrotli`) on CloudBees CI **modern** Operations Center and managed controller at version `2.555.1.36488`.
 
-- Zendesk: [279135](https://cloudbees.zendesk.com/agent/tickets/279135)
+
 - KB: [Upgrading libbrotli package for existing versions of CloudBees CI](https://docs.cloudbees.com/docs/cloudbees-ci-kb/latest/client-and-managed-controllers/libbrotli-package-upgrade)
 
 These are **workaround** images (same product version, fixed `libbrotli-1.0.9-10.el9_8.1`). They are **not** an official CloudBees product release.
